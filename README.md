@@ -1,5 +1,5 @@
 # starbound-bk3k-s-inventory-character-convertion-tool
-Converts character data to make it compatible with "bk3k's inventory" mod
+Converts character data to make it compatible with "bk3k's inventory" mod  
 Note that this does not require you to clear your inventory prior to conversion
 
 
